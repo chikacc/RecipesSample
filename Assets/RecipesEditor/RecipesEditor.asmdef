@@ -1,0 +1,6 @@
+﻿{
+  "name": "RecipesEditor",
+  "rootNamespace": "RecipesEditor",
+  "includePlatforms": ["Editor"],
+  "defineConstraints": ["UNITY_EDITOR"]
+}
